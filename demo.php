@@ -1,12 +1,8 @@
 <?php
 
 /**
- 说明: aop的更多方法，可以阅读aop.php代码发掘
+ 说明: aop的更多方法，可以阅读aop.php代码了解
  如果有疑问可以mail <isno.cn@gmail.com> , 主页 http://www.isno.cn（基本没内容） 
-
-  原理详细说明:可以查看 sina云论坛
-  http://cloudbbs.org/forum.php?mod=viewthread&tid=7820&extra=page%3D1
-
 */
 
 
