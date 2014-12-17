@@ -2,7 +2,7 @@
 
 /**
  说明: aop的更多方法，可以阅读aop.php代码了解
- 如果有疑问可以mail <isno.cn@gmail.com> , 主页 http://www.isno.cn（基本没内容） 
+ 如果有疑问可以mail <isno.cn@gmail.com> , 博客 http://www.isno.cn
 */
 
 
